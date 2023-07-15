@@ -15,9 +15,9 @@ export default function UpperNav() {
                 </div>
             </div>
             <div className="p-2 font-light bg-neutral-800 flex text-white">
-                <div><i className="fa-solid fa-envelope me-2 text-yellow-500"></i> <Link href="mailto:user@example.org">user@example.org</Link></div>
+                <div><i className="fa-solid fa-envelope me-2 text-yellow-500"></i> <Link href="mailto:user@example.org" className="text-xs sm:text-lg">user@example.org</Link></div>
                 <span className="mx-8"> | </span>
-                <div><i className="fa-solid fa-phone me-2 text-yellow-500"></i> 250-884-5157</div>
+                <div><i className="fa-solid fa-phone me-2 text-yellow-500"></i><span className="text-xs sm:text-lg">250-884-5157</span></div>
             </div>
         </div>
     )

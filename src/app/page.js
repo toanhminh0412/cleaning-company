@@ -10,7 +10,7 @@ export default function Home() {
               <Image src="/img/profile.jpeg" alt="Shoes" fill />
             </div>
           <div className="card-body items-center text-center prose">
-            <h2 className="card-title">Maribel Bautista Nuval</h2>
+            <h2 className="card-title text-md">Maribel Bautista Nuval</h2>
             <p className="mt-[-30px] font-light text-slate-500 text-xl">Cleaning professional</p>
             <h3 className="mt-[-10px] font-semibold text-red-500">30 years of experience!</h3>
           </div>
