@@ -19,7 +19,7 @@ export default function Home() {
           <div className="prose">
             <article>
               <h1 className="underline underline-offset-[10px] decoration-orange-500">About me</h1>
-              <p>I'm a reliable and trustworthy cleaning professional with 30+ years of experience keeping facilities in clean and orderly condition. Performs heavy cleaning duties, including cleaning floors, shampooing rugs, washing walls and glass, cleaning restrooms, dusting office furniture, and removing trash. Completes routine maintenance activities, including notifying management of the need for repairs. Reports work in progress or completion.</p>
+              <p>I&apos;m a reliable and trustworthy cleaning professional with 30+ years of experience keeping facilities in clean and orderly condition. Performs heavy cleaning duties, including cleaning floors, shampooing rugs, washing walls and glass, cleaning restrooms, dusting office furniture, and removing trash. Completes routine maintenance activities, including notifying management of the need for repairs. Reports work in progress or completion.</p>
               <h2>We provide quality services only!</h2>
             </article>
             <div>Feel free to contact me at:</div>
@@ -28,7 +28,7 @@ export default function Home() {
               <div><i className="fa-solid fa-envelope text-red-500 text-xl me-2"></i> <Link href="mailto:user@example.org">user@example.org</Link></div>
               <div><i className="fa-brands fa-facebook text-blue-500 text-xl me-2"></i> <Link href="https://www.facebook.com/mabel.n.sanchez1" target="_blank">Maribel Bautista Nuval</Link></div>
             </div>
-            <blockquote>Let me know what you need help with! I'll be on my way.</blockquote>
+            <blockquote>Let me know what you need help with! I&apos;ll be on my way.</blockquote>
           </div>
         </div>
       </section>
@@ -40,17 +40,17 @@ export default function Home() {
             <div className="text-center prose">
               <div><i className="fa-solid fa-shop text-orange-500 w-fit h-fit p-4 text-4xl border-2 border-orange-500 hover:bg-orange-500 duration-300 hover:text-white rounded-full"></i></div>
               <h2>Commercial cleaning</h2>
-              <p>Anything in your shop/store can get cleaner, and I'll make that happen for you. With 30 years of experience working with local businesses, the dirtiest doors, counters, windows, tables or even toilets are no longer a challenge!</p>
+              <p>Anything in your shop/store can get cleaner, and I&apos;ll make that happen for you. With 30 years of experience working with local businesses, the dirtiest doors, counters, windows, tables or even toilets are no longer a challenge!</p>
             </div>
             <div className="text-center prose">
               <div><i className="fa-solid fa-house text-orange-500 w-fit h-fit p-4 text-4xl border-2 border-orange-500 hover:bg-orange-500 duration-300 hover:text-white rounded-full"></i></div>
               <h2>Move in/move out cleaning</h2>
-              <p>Moving in or out of the place but don't want to deal with the hustle of cleaning things up? I got you covered. I will make sure your house is ready for your arrival/ departure!</p>
+              <p>Moving in or out of the place but don&apos;t want to deal with the hustle of cleaning things up? I got you covered. I will make sure your house is ready for your arrival/ departure!</p>
             </div>
             <div className="text-center prose">
               <div><i className="fa-solid fa-calendar-days text-orange-500 w-fit h-fit p-4 text-4xl border-2 border-orange-500 hover:bg-orange-500 duration-300 hover:text-white rounded-full"></i></div>
               <h2>On-going cleaning</h2>
-              <p>What's better than having a constantly clean place to live in? You can schedule weekly, bi-weekly, monthly cleaning sessions with me. I will make sure your place is always free of dusts and germs!</p>
+              <p>What&apos;s better than having a constantly clean place to live in? You can schedule weekly, bi-weekly, monthly cleaning sessions with me. I will make sure your place is always free of dusts and germs!</p>
             </div>
             <div className="text-center prose">
               <div><i className="fa-solid fa-person-cane text-orange-500 w-fit h-fit p-4 text-4xl border-2 border-orange-500 hover:bg-orange-500 duration-300 hover:text-white rounded-full"></i></div>
