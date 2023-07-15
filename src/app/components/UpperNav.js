@@ -5,7 +5,7 @@ export default function UpperNav() {
         <div className="fixed top-0 left-0 w-screen z-40">
             <div className="navbar bg-gradient-to-r from-red-500 to-orange-500 shadow-lg text-white">
                 <div className="navbar-start">
-                    <Link href="#" className="btn btn-ghost normal-case text-xl">CleaningCompany</Link>
+                    <h1 className="btn btn-ghost normal-case text-xl">CleaningCompany</h1>
                 </div>
                 <div className="navbar-center hidden md:flex prose text-white text-xl font-light">
                     We clean and wash, and you relax.
